@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>OBR_ListUser</name>
+   <name>OBR_ListUsers</name>
    <tag></tag>
    <elementGuidId>735e9244-6b35-4d76-a207-93415dde1f61</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
